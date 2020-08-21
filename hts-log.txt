@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 18 Aug 2020 11:40:14 at http://madebyfortune.com/revert/theme/index-slideshow.html# +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://madebyfortune.com/revert/theme/index-slideshow.html# -O1 "E:\Theme\Resume Theme" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:42:18	Error: 	"Not Found" (404) at link madebyfortune.com/revert/theme/css/fonts/glyphicons-halflings-regular.eot (from madebyfortune.com/revert/theme/css/vendor/bootstrap.min.css)
+11:42:18	Error: 	"Not Found" (404) at link madebyfortune.com/revert/theme/css/fonts/glyphicons-halflings-regular.eot? (from madebyfortune.com/revert/theme/css/vendor/bootstrap.min.css)
+11:42:18	Error: 	"Not Found" (404) at link madebyfortune.com/revert/theme/css/fonts/glyphicons-halflings-regular.woff2 (from madebyfortune.com/revert/theme/css/vendor/bootstrap.min.css)
+11:42:18	Error: 	"Not Found" (404) at link madebyfortune.com/revert/theme/css/fonts/glyphicons-halflings-regular.woff (from madebyfortune.com/revert/theme/css/vendor/bootstrap.min.css)
+11:42:18	Error: 	"Not Found" (404) at link madebyfortune.com/revert/theme/css/fonts/glyphicons-halflings-regular.ttf (from madebyfortune.com/revert/theme/css/vendor/bootstrap.min.css)
+11:42:18	Error: 	"Not Found" (404) at link madebyfortune.com/revert/theme/css/fonts/glyphicons-halflings-regular.svg (from madebyfortune.com/revert/theme/css/vendor/bootstrap.min.css)
+11:42:18	Error: 	"Not Found" (404) at link madebyfortune.com/revert/theme/css/vendor/mCSB_buttons.png (from madebyfortune.com/revert/theme/css/vendor/jquery.mCustomScrollbar.min.css)
+11:42:18	Error: 	"Not Found" (404) at link madebyfortune.com/revert/theme/css/vendor/overlays/02.png (from madebyfortune.com/revert/theme/css/vendor/vegas.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 4 seconds : 48 links scanned, 39 files written (3560503 bytes overall) [3555463 bytes received at 28673 bytes/sec], 28746 bytes transferred using HTTP compression in 1 files, ratio 13%, 1.7 requests per connection
+(8 errors, 0 warnings, 0 messages)
